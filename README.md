@@ -10,6 +10,6 @@ Welcome to my portfolio repository showcasing my skills in data analysis, progra
 - **Design**: Adobe Photoshop
 
 - Email: [mu635022@gmail.com]
-- LinkedIn: [your LinkedIn profile]
+- LinkedIn: [https://www.linkedin.com/in/muhammad-umair-1b726037b/]
 
 
